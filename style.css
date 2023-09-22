@@ -1,0 +1,43 @@
+*{
+    background-color: chocolate;
+}
+
+body,html{
+    background-color: aliceblue;
+}
+
+#titulo {
+    color: darkorchid;
+}
+
+.texto {
+    color: red;
+    cursor: pointer;
+}
+
+a {
+    color: greenyellow;
+}
+
+#anchor{
+    color: aqua;
+}
+
+form>fieldset>label{
+    background-color: crimson;
+
+}
+
+.nav{
+    background-color: forestgreen;
+    
+}
+.nav>a{
+    color: aliceblue;
+}
+.nav>a:last-child{
+    background-color: aqua;
+}
+.nav>a:first-child{
+    background-color: yellow;
+}

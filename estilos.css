@@ -1,0 +1,11 @@
+table{
+    background-color: rgba(8, 10, 0, 0.39);
+}
+
+table tr:nth-child(even){
+    background-color: rgb(236, 14, 14);
+}
+
+table tr:nth-child(odd){
+    background-color: blue;
+}
